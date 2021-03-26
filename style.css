@@ -17,14 +17,14 @@ html, body {
   background-position: center center;
   width: 100%;
   height: 150px;
-  position:centre;
+  position: relative;
 }
 
 .main-nav {
   width: 800px;
   margin-left: 200px;
   position: absolute;
-  bottom: 820px
+  bottom: 0px
 }
 
   .main-nav a {
